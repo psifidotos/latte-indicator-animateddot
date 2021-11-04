@@ -1,28 +1,13 @@
-# Latte "Dash To Panel" Indicator
-This is a "Animated Dot" style indicator for [Latte Dock](https://phabricator.kde.org/source/latte-dock/repository/master/)
+# Latte "Animated Dot" Indicator
+This is an animated style indicator for [Latte Dock](https://phabricator.kde.org/source/latte-dock/repository/master/). Its main purpose is to demonstrate how developers can implement their own animations for launchers, applets, new grouped windows etc.
 
 <p align="center">
-<img src="https://i.imgur.com/9YOlbaC.png" width="480" ><br/>
-<i>metro style</i>
+<img src="https://drive.google.com/uc?id=12nsjdCv1WuPXCpLwBVlsEdVm0-LlPzze" width="600" ><br/>
+<i>launcher animation</i>
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/jBVWJyo.png" width="480" ><br/>
-<i>ciliora style</i>
-</p>
-
-<p align="center">
-<img src="https://i.imgur.com/d3kHMBF.png" width="480" ><br/>
-<i>dashes style</i>
-</p>
-
-<p align="center">
-<img src="https://i.imgur.com/0XsXflm.png" width="480" ><br/>
-<i>metro style in parabolic effect</i>
-</p>
-
-<p align="center">
-<img src="https://imgur.com/Ufu9jRM.png" width="480" ><br/>
+<img src="https://drive.google.com/uc?id=1QSKzfk6_ocbcg7uPPedDZqbc-PA5qw0t" width="600" ><br/>
 <i>indicator options</i>
 </p>
 
