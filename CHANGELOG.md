@@ -2,7 +2,7 @@
 
 #### Version 0.1.0
 
-* animate touch laucher
+* animate task launcher
 * animate grouped tasks when a window is added
 * animate grouped tasks when a window is removed
 * animate tasks that need attention
