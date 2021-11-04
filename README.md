@@ -2,12 +2,12 @@
 This is an animated style indicator for [Latte Dock](https://phabricator.kde.org/source/latte-dock/repository/master/). Its main purpose is to demonstrate how developers can implement their own animations for launchers, applets, new grouped windows etc.
 
 <p align="center">
-<img src="https://drive.google.com/uc?id=12nsjdCv1WuPXCpLwBVlsEdVm0-LlPzze" width="600" ><br/>
+<img src="https://i.imgur.com/FjnjFvD.gif" width="600" ><br/>
 <i>launcher animation</i>
 </p>
 
 <p align="center">
-<img src="https://drive.google.com/uc?id=1QSKzfk6_ocbcg7uPPedDZqbc-PA5qw0t" width="600" ><br/>
+<img src="https://i.imgur.com/CJf5nDY.jpg" width="600" ><br/>
 <i>indicator options</i>
 </p>
 
